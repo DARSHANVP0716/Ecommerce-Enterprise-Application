@@ -1,0 +1,8 @@
+D:\Courses\Edureka_Tcs\Capstone-Ecommerce-Application\product-service\src\main\java\com\ecommerce\product_service\controller\ProductController.java
+D:\Courses\Edureka_Tcs\Capstone-Ecommerce-Application\product-service\src\main\java\com\ecommerce\product_service\dto\ProductRequest.java
+D:\Courses\Edureka_Tcs\Capstone-Ecommerce-Application\product-service\src\main\java\com\ecommerce\product_service\entity\ProductEntity.java
+D:\Courses\Edureka_Tcs\Capstone-Ecommerce-Application\product-service\src\main\java\com\ecommerce\product_service\exception\GlobalException.java
+D:\Courses\Edureka_Tcs\Capstone-Ecommerce-Application\product-service\src\main\java\com\ecommerce\product_service\exception\ProductNotFound.java
+D:\Courses\Edureka_Tcs\Capstone-Ecommerce-Application\product-service\src\main\java\com\ecommerce\product_service\ProductServiceApplication.java
+D:\Courses\Edureka_Tcs\Capstone-Ecommerce-Application\product-service\src\main\java\com\ecommerce\product_service\Repository\ProductRepository.java
+D:\Courses\Edureka_Tcs\Capstone-Ecommerce-Application\product-service\src\main\java\com\ecommerce\product_service\service\ProductService.java

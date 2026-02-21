@@ -1,0 +1,10 @@
+com\ecommerce\product_service\dto\ProductRequest$ProductRequestBuilder.class
+com\ecommerce\product_service\exception\ProductNotFound.class
+com\ecommerce\product_service\ProductServiceApplication.class
+com\ecommerce\product_service\Repository\ProductRepository.class
+com\ecommerce\product_service\dto\ProductRequest.class
+com\ecommerce\product_service\controller\ProductController.class
+com\ecommerce\product_service\entity\ProductEntity.class
+com\ecommerce\product_service\service\ProductService.class
+com\ecommerce\product_service\exception\GlobalException.class
+com\ecommerce\product_service\entity\ProductEntity$ProductEntityBuilder.class
