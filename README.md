@@ -1,1 +1,1 @@
-Ecommerce Application 
+Ecommerce Enterprise Application is built on Microservice architecture using Java spring boot framework.
