@@ -1,0 +1,18 @@
+package com.ecommerce.order_service.dto;
+
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@Builder
+public class ProductResponse {
+
+    private Long id;
+    private String product_name;
+    private double price;
+    private String description;
+}

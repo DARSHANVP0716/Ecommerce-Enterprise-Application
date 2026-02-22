@@ -5,9 +5,26 @@ spring:
   config:
     import: "optional:configserver:http://localhost:8888"
 
+#  cloud:
+#    gateway:
+#      discovery:
+#        locator:
+#          enabled: true # Automatically creates routes based on Eureka Service IDs
+#          lower-case-service-id: false
+
   cloud:
     gateway:
       discovery:
-        locator:
-          enabled: true # Automatically creates routes based on Eureka Service IDs
-          lower-case-service-id: true
+        routes:
+          - id: product-service
+            uri: lb://product-service
+            predicates:
+              - Path=/products/**
+
+          - id: order-service
+            uri: lb://order-service
+            predicates:
+              -path=/orders/**
+
+
+
