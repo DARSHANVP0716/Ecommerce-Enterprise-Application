@@ -1,1 +1,3 @@
 D:\Courses\Edureka_Tcs\Capstone-Ecommerce-Application\api-gateway\src\main\java\com\ecommerce\apigateway\ApiGatewayApplication.java
+D:\Courses\Edureka_Tcs\Capstone-Ecommerce-Application\api-gateway\src\main\java\com\ecommerce\apigateway\security\JwtAuthenticationFilter.java
+D:\Courses\Edureka_Tcs\Capstone-Ecommerce-Application\api-gateway\src\main\java\com\ecommerce\apigateway\security\JwtUtil.java
