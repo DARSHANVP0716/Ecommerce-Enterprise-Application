@@ -1,0 +1,12 @@
+com\ecommerce\order_service\dto\OrderResponse.class
+com\ecommerce\order_service\dto\ProductResponse$ProductResponseBuilder.class
+com\ecommerce\order_service\dto\OrderRequest$OrderRequestBuilder.class
+com\ecommerce\order_service\model\Order$OrderBuilder.class
+com\ecommerce\order_service\OrderServiceApplication.class
+com\ecommerce\order_service\controller\OrderController.class
+com\ecommerce\order_service\model\Order.class
+com\ecommerce\order_service\client\ProductClient.class
+com\ecommerce\order_service\dto\OrderRequest.class
+com\ecommerce\order_service\dto\ProductResponse.class
+com\ecommerce\order_service\service\OrderService.class
+com\ecommerce\order_service\dto\OrderResponse$OrderResponseBuilder.class

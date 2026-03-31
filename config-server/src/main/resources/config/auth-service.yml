@@ -1,0 +1,11 @@
+server:
+  port: 8083
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka/
+
+jwt:
+  secret: "1O5QIVm3L9p/1baSbeJ4rEuyhqJMmCUnTALTdvflEhc="
+  expiration: 3600000
